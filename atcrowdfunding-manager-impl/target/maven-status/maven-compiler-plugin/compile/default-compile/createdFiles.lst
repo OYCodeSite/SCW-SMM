@@ -1,0 +1,12 @@
+com\oy\scwfunding\controller\TAdminController.class
+com\oy\scwfunding\controller\TPermissionController.class
+com\oy\scwfunding\component\TSecurityAdmin.class
+com\oy\scwfunding\servie\impl\TMenuServiceImpl.class
+com\oy\scwfunding\config\AtcrowdFundingSecurityConfig$1.class
+com\oy\scwfunding\controller\TMenuController.class
+com\oy\scwfunding\component\UserDetailServiceImpl.class
+com\oy\scwfunding\servie\impl\TPermissionServiceImpI.class
+com\oy\scwfunding\servie\impl\TRoleServiceImpl.class
+com\oy\scwfunding\config\AtcrowdFundingSecurityConfig.class
+com\oy\scwfunding\controller\TRoleController.class
+com\oy\scwfunding\servie\impl\TAdminServiceImpl.class
